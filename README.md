@@ -1,8 +1,10 @@
 # 📐 Polynomial Calculator
 
+---
 
 ![BOOKS](https://github.com/Dreamerol/Dreamerol/blob/7909fe23c9912d7fec2b18a5d963079a9561e1e1/ZPOLYNOMY2.jpg)
 
+---
 
 ## 🚀 Overview
 
