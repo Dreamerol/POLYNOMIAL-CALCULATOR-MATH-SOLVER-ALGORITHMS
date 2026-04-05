@@ -1,10 +1,12 @@
 # 📐 Polynomial Calculator
 
-This repository contains a **C++ application for working with polynomials**. It implements several fundamental operations and algorithms to manipulate and analyze polynomials directly in code.
+
+![BOOKS](https://github.com/Dreamerol/Dreamerol/blob/20e1d0e02512d29544a9b7b4f5e4b76b85b40680/BOOKS.jpg)
+
 
 ## 🚀 Overview
 
-The project provides tools to perform a variety of polynomial-related tasks, including:
+This repository contains a **C++ application for working with polynomials**. It implements several fundamental operations and algorithms to manipulate and analyze polynomials directly in code. The project provides tools to perform a variety of polynomial-related tasks, including:
 
 - Addition and subtraction of polynomials  
 - Vieta’s formulas  
