@@ -1,6 +1,6 @@
 <h2 align="center">POLYNOMIAL CALCULATOR – MATH SOLVER & ALGORITHMS</h2>
 
-</p> <p align="center"> 💻 A C++ application for mastering polynomial operations, exploring mathematical algorithms, and experimenting with low-level computation. </p>
+## </p> <p align="center"> 💻 C++ application for mastering polynomial operations, exploring mathematical algorithms, and experimenting with low-level computation. </p>
 
 ---
 
