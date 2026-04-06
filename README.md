@@ -107,7 +107,6 @@ This project is **designed for learning**, **experimenting with algorithms**, an
 - Designed as a **console application** (no GUI)  
 - Useful both as a **learning project** and as a basis for extending polynomial tools  
 
-## 📂 Project Structure
 
 -------------------------------------------------------------------------------
 
