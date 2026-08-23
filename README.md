@@ -143,14 +143,8 @@ cal Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-t
 
 
 
-<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
-
-
-
-
-
-
+<h2 align="center">⭐ Feel free to explore repos and star if you find them interesting</h2>
 
 
 
