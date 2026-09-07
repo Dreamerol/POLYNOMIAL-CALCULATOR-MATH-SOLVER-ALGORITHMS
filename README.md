@@ -1,4 +1,4 @@
-<h1 align="center">🧮 𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥 – 𝗠𝗔𝗧𝗛 𝗦𝗢𝗟𝗩𝗘𝗥 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</h1>
+<h1 align="center">🧮 𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</h1>
 
 ## </p> <p align="center"> *C++ application for mastering polynomial operations, exploring mathematical algorithms, and experimenting with low-level computation.* </p>
 
