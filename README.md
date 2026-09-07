@@ -1,8 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/Dreamerol/PORTFOLIO"
-     title="Polynomial Calculator — Mathematical Operations & Algorithms • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • AI Engineer • Software Engineer">
-      𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
-  </a>
+     title="Polynomial Calculator — Mathematical Operations & Algorithms • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • AI Engineer • Software Engineer">𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</a>
 </h1>
 
 
