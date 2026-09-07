@@ -1,4 +1,11 @@
-<h1 align="center">🧮 𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</h1>
+<h1 align="center">
+  <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR"
+     title="Polynomial Calculator — Mathematical Operations & Algorithms • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • AI Engineer • Software Engineer">
+    🧮 𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
+  </a>
+</h1>
+
+
 
 ## </p> <p align="center"> *C++ application for mastering polynomial operations, exploring mathematical algorithms, and experimenting with low-level computation.* </p>
 
