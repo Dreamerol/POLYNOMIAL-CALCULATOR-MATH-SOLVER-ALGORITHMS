@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
     <a href="https://github.com/Dreamerol/PORTFOLIO"
      title="Polynomial Calculator — Mathematical Operations & Algorithms • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • AI Engineer • Software Engineer">𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</a>
@@ -13,19 +15,23 @@
 
 
 
+
+
 <div align="center">
 
 <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
-
-<img
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Calculator-poly.jpg"
-width="100%"
-alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
-/>
-
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Calculator-poly.jpg"
+    width="100%"
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia"
+  />
 </a>
 
 </div>
+
+
+
+
 
 
 
